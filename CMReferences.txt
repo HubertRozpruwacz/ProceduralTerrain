@@ -1,0 +1,13 @@
+https://github.com/SebLague/Marching-Cubes
+https://developer.nvidia.com/gpugems/gpugems3/part-i-geometry/chapter-1-generating-complex-procedural-terrains-using-gpu
+https://people.eecs.berkeley.edu/~jrs/meshpapers/LorensenCline.pdf
+http://paulbourke.net/geometry/polygonise/
+
+--- PERLIN NOISE ---
+https://flafla2.github.io/2014/08/09/perlinnoise.html
+
+--- GITS ---
+
+CubeMarching1 (Eldemarkki) - https://github.com/Eldemarkki/Marching-Cubes-Terrain.git
+CubeMarching2 (Sebastian Lague) - https://github.com/SebLague/Marching-Cubes.git
+CsPerlinNoise (Flafla2) - https://gist.github.com/f0260a861be0ebdeef76.git
